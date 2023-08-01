@@ -1,4 +1,4 @@
-# spring-shop
+# spring-ecom
 SpringDemo-ecommerce
 
 개발 환경
