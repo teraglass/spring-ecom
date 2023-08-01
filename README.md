@@ -1,5 +1,11 @@
 # spring-shop
 SpringDemo-ecommerce
+개발 환경
+- springboot 3.0
+- JDK 17
+- Maven
+- Dependencies : Eureka Server, Eureka, spring boot devTools, lombok, eureka discovery client, spring web
+  
 <쇼핑몰 서비스>
 
 - 비회원이 회원가입을 진행
